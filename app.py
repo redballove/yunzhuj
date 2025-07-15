@@ -4,7 +4,7 @@
 """
 import streamlit as st
 
-st.title(f"🖥云主机推荐")
+st.title("🖥云主机推荐")
 
 with st.expander("免费主机"):
     st.markdown("""
